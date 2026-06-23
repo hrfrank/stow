@@ -1,0 +1,7 @@
+require("modules.env")
+require("modules.execs")
+require("modules.input")
+require("modules.keybinds")
+require("modules.look")
+require("modules.monitors")
+require("modules.windowrules")
